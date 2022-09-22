@@ -1,2 +1,2 @@
 # Assignment_1
-Histograph and Scatterplot
+Histogram and Scatterplot
