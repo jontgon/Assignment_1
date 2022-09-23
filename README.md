@@ -1,6 +1,6 @@
 Histograms and Scatterplots
 
-Hypothesis: As the number of pitchers per game increses the number of srtikeouts should also increse due to less pitcher fatigue.
+Hypothesis: As the number of pitchers per game increses the number of strikeouts should also increse due to less pitcher fatigue.
 
 
 The visualizations were generated using a dataset of yearly pitching totals from 1918 to 2018. I hypothesize that increasing the number of pitchers in baseball season will increase the number of strikeouts thrown in that season. This is based on the idea that increasing the number of pitchers will increase the variety of pitches thrown as well as reduce fatigue within the pitching roster.
