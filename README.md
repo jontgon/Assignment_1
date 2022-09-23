@@ -15,3 +15,4 @@ The annoted version of the viasualizations describing design decisions.
 
 
 Data extracted from: https://www.kaggle.com/datasets/mattop/mlb-pitching-totals-data-1871-2021
+ 
