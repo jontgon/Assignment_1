@@ -13,3 +13,6 @@ The scatterplot shows a relation between total hits, walks, home runs, and strik
 
 The annoted version of the viasualizations describing design decisions.
 <img src="images/noted.JPG">
+
+
+Data extracted from: https://www.kaggle.com/datasets/mattop/mlb-pitching-totals-data-1871-2021
