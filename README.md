@@ -1,5 +1,4 @@
-Assignment 1
-
+Histograms and Scatterplots
 
 Hypothesis: As the number of pitchers per game increses the number of srtikeouts should also increse due to less pitcher fatigue.
 
